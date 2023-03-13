@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Rafiq arts</title>
-	<atom:link href="/https://rajbhabal.github.io/rafiq-arts/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://rajbhabal.github.io/rafiq-arts</link>
+	<atom:link href="https://rajbhabal.github.io/rafiq-arts/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rajbhabal.github.io/rafiq-arts</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Mon, 13 Mar 2023 12:00:05 +0000</lastBuildDate>
 	<language>en-US</language>
